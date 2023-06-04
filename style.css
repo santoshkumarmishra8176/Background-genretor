@@ -1,0 +1,28 @@
+body {
+    font:'Railway', sans-serif;
+    color: rgba(0,0,0,0.5);
+    text-align: Center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    top: 15%;
+    background: linear-gradient(to left,#ff0000,#00ff00);
+  }
+  
+  h1 {
+    font: 600 3.5 'Raileay' sans-serif;
+    color: rgba(0,0,0,0.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    width: 100%;
+  }
+  p strong{
+    font: 900 1.5em 'Railway',sans-serif;
+    columns: rgba(0,0,0,0.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.1em;
+
+  }
+  
+  
